@@ -1,9 +1,8 @@
-#include <bits/stdc++.h>
+#include <iostream>
 
 using namespace std;
 
-int main()
-{
+int main(){
     string N;
     cin >> N;
     cout << "Hello " << N << endl;
